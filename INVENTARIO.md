@@ -24,3 +24,4 @@
 - 2 AC Adapter ROHS de 5V.
 - 1 AC Adapter de 12V.
 - 1 SAI SALICRU SPS.1200.SOHO+.
+- 1 adaptador VGA->HDMI
