@@ -1,0 +1,27 @@
+# **INVENTARIO**
+
+- 3 Equipos de 16GB DELL ORJ3.
+- 3 Equipos APD ORH2.
+- 2 Equipos APD ORI3.
+- 1 Switch TP-Link TL-SG2216.
+- 1 Switch CISCO Catalyst 3750 Series POE de 24 puertos.
+- 1 Switch TP-Link TL-SG2008 de 8 puertos.
+- 1 Patch Panel CAT5E.
+- 2 Monitores ACER V193HQV.
+- 1 Monitor Samsung 720N.
+- 1 Monitor ACER AL1716 A.
+- 4 Teclados APD KU-0325.
+- 4 Ratones.
+- 4 Regletas.
+- Cables de red RJ45.
+- 1 Microtik 661606FACF16/620.
+- 1 Punto de acceso TP-Link TL-WR841N(TPD) de 9V.
+- 7 Adaptadores red UE300.
+- 2 Adaptadores red UE-4208 SERIAL.
+- 1 Alargador tambor.
+- 1 AC Adapter LinkSYS de 12V.
+- 1 AC Adapter TP-Link de 9V.
+- 2 AC Adapter ROHS de 5V.
+- 1 AC Adapter de 12V.
+- 1 SAI SALICRU SPS.1200.SOHO+.
+- 1 adaptador VGA->HDMI
