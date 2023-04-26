@@ -21,3 +21,10 @@ Hemos empezado a configurar el router TP-Link para configurar la red. Para ello 
   - Configuración de ruta estática por defecto.
 
 No hemos conseguido que funcione, no accede a Internet ni hace ping a la puerta de enlace
+
+## *MIÉRCOLES, 26 DE ABRIL*
+
+Continuamos configurando el router TP-Link.Hemos encontrado dos errores en la configuración SOURCENAT. 
+  - El primero era que no seleccionamos la opción de sourcenat , nosotros lo pusimos a mano y en mayúscula.
+  - El segundo error fue que en la máscara no pusimos la /24.
+  Por último hemos conseguido que funcione el Microtik.
