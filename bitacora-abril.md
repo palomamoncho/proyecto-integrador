@@ -29,3 +29,10 @@ Hemos encontrado dos errores en la configuración SOURCENAT:
   - El primero era que no seleccionamos la opción de sourcenat , nosotros lo pusimos a mano y en mayúscula.
   - El segundo error fue que en la máscara no pusimos la /24.
   Por último hemos conseguido que funcione el Microtik.
+  
+  ## *JUEVES, 27 DE ABRIL*
+  
+  En el dia de hoy nos hemos quedado en clase pensando y estructurando el esquema de red, al principio no teniamos
+  mucha idea de como comenzar, pero entre todos hemos ido construyendo el esquema hasta que finalmente tenemos clara
+  la distribución que usaremos en un futuro.
+
