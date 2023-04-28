@@ -38,8 +38,8 @@ Hemos encontrado dos errores en la configuración SOURCENAT:
 
   ## *VIERNES, 28 DE ABRIL*
   
-  En el dia de hoy hemos ido al taller y nos hemos dividido el trabajo en pequeños grupos. 
+  En el día de hoy hemos ido al taller y nos hemos dividido el trabajo en pequeños grupos. 
   Mientras unos hacían la configuración de los sistemas operativos base, 
-  otra persona se dedicaba a realizar la memória que entregamos en el día de hoy 
-  sobre la disttribución de los servidores virtualizados dentro de los tres servidores físicos de los que el grupo dispone
+  otra persona se dedicaba a realizar la memoria que entregamos en el día de hoy 
+  sobre la distribución de los servidores virtualizados dentro de los tres servidores físicos de los que el grupo dispone
   mienrtras que otro compañero organizaba las tareas del grupo a través de Trello.
