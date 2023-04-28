@@ -36,3 +36,10 @@ Hemos encontrado dos errores en la configuración SOURCENAT:
   mucha idea de como comenzar, pero entre todos hemos ido construyendo el esquema hasta que finalmente tenemos clara
   la distribución que usaremos en un futuro.
 
+  ## *VIERNES, 28 DE ABRIL*
+  
+  En el dia de hoy hemos ido al taller y nos hemos dividido el trabajo en pequeños grupos. 
+  Mientras unos hacían la configuración de los sistemas operativos base, 
+  otra persona se dedicaba a realizar la memória que entregamos en el día de hoy 
+  sobre la disttribución de los servidores virtualizados dentro de los tres servidores físicos de los que el grupo dispone
+  mienrtras que otro compañero organizaba las tareas del grupo a través de Trello.
