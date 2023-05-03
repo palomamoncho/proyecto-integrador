@@ -15,6 +15,16 @@ Por último pondremos el switch pequeño T-PLINK arriba del todo y al lado de es
 Como nuestra sede está arriba colocaremos los servidores en el suelo debajo de la mesa donde no molesten.
 
 ## Día 3 ##
+Configuración desde cero el microtik ya que noo funcionaba porque teníamos dos errores uno de ellos fue que en la mascara no pusimos un /24 y otro
+es que no seleccionamos la opción correcta del SOURCENAT ,basicamente teníamos un error de escritura.
+
+## Día 4 ##
+
+Martes 2 de Mayo de 2023
+
+Instalación de un servidor de debian con entorno gráfico.
+
+## Día 5 ##
 
 Miércoles 3 de Mayo de 2023
 
