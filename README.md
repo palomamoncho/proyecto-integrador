@@ -8,11 +8,11 @@
 - Diego Pérez Verdú 
 
 # Documentos de cada miembro del grupo
-- [Andrea](https://github.com/PCADD/proyecto-integrador/blob/main/andrea-milan.md)
-- [David](https://github.com/PCADD/proyecto-integrador/blob/main/david-segura)
-- [César](https://github.com/PCADD/proyecto-integrador/blob/main/cesar-pla.md)
-- [Paloma](https://github.com/PCADD/proyecto-integrador/blob/main/paloma-moncho.md)
-- [Diego](https://github.com/PCADD/proyecto-integrador/blob/main/Diego-P%C3%A9rez.md)
+- [Andrea](https://github.com/PCADD/proyecto-integrador/blob/main/Miembros/andrea-milan.md)
+- [David](https://github.com/PCADD/proyecto-integrador/blob/main/Miembros/david-segura.md)
+- [César](https://github.com/PCADD/proyecto-integrador/blob/main/Miembros/cesar-pla.md)
+- [Paloma](https://github.com/PCADD/proyecto-integrador/blob/main/Miembros/paloma-moncho.md)
+- [Diego](https://github.com/PCADD/proyecto-integrador/blob/main/Miembros/Diego-P%C3%A9rez.md)
 
 # Bitácoras de cada mes
 -[Marzo](https://github.com/PCADD/proyecto-integrador/blob/main/bitacora-marzo.md)
