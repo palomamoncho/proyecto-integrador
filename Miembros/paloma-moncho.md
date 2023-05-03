@@ -13,3 +13,11 @@ Hoy he ido al taller y he pensado en como organizar el rack. Como ya tenemos el 
 Como nos hace falta otro switch que  posiblemente tenga otro grupo este lo colocaremos el tercero por su tamaño.
 Por último pondremos el switch pequeño T-PLINK arriba del todo y al lado de este el Microtick.
 Como nuestra sede está arriba colocaremos los servidores en el suelo debajo de la mesa donde no molesten.
+
+## Día 3 ##
+
+Miércoles 3 de Mayo de 2023
+
+Hoy he instalado el sistema operativo de debian con entorno gráfico(el servidor 2 y 3 con sus respectivos nombres de srvsedealcoy02 y srvsedealcoy03 con la contraseña de 1234) en los dos servidores que me faltaban. 
+Después he buscado mcables para cortar y crimpar en el pach panel , hemos hecho un total de 6.(Solo falta etiquetarlos).
+También he etiquetado dos clientes.
