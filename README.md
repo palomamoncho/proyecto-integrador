@@ -15,5 +15,5 @@
 - [Diego](https://github.com/PCADD/proyecto-integrador/blob/main/Miembros/Diego-P%C3%A9rez.md)
 
 # Bitácoras de cada mes
--[Marzo](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-marzo.md)  
--[Abril](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-abril.md)
+- [Marzo](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-marzo.md)  
+- [Abril](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-abril.md)
