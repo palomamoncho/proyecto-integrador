@@ -18,7 +18,7 @@ En el dia de hoy, Andrea y yo hemos configurado el mikrotik para poder tener nue
 
 ## DIA 4 ##
 
-### Sistemas operativos###
+### Sistemas operativos ###
 
 En el dia de hoy hemos empezado a intalar diferentes sistemas operativos, tanto en servidores como en clientes, la verdad que el proceso ha sido lento ya que nos faltaban adaptadores vga-hdmi y USBs con las iso de los sistemas operativos a instalar.
 
