@@ -31,3 +31,11 @@ Miércoles 3 de Mayo de 2023
 Hoy he instalado el sistema operativo de debian con entorno gráfico(el servidor 2 y 3 con sus respectivos nombres de srvsedealcoy02 y srvsedealcoy03 con la contraseña de 1234) en los dos servidores que me faltaban. 
 Después he buscado mcables para cortar y crimpar en el pach panel , hemos hecho un total de 6.(Solo falta etiquetarlos).
 También he etiquetado dos clientes.
+
+## Día 6 ##
+
+Viernes 5 de Mayo de 2023
+
+Dentro del virtualbox he creado y he configurado los servidores que nos hacian falta.
+También he acabado de instalar en los equipos sus respectivos sistemas (windows y debian).
+Por último ordenamos el rack y la mesa con los clientes y bajo en el suelo dejamos los servidores.
