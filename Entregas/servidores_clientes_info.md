@@ -1,15 +1,15 @@
 # Dell 1
- Usuario:srvsedealcoy01
- Contraseña:1234
+ Usuario:srvsedealcoy01  
+ Contraseña:1234  
  
 ## Servidor empresarial
 (Servidor con entorno gráfico)
-Usuario:srvempresarial1
+Usuario:srvempresarial1  
 Contraseña:Batoi@1234
 
 ## Servidor cabina de discos
 (Servidor con entorno gráfico)
-Usuario:debiandiscos
+Usuario:debiandiscos  
 Contraseña:1234
 
 ## Servidor de datos
