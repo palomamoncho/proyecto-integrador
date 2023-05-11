@@ -18,7 +18,18 @@ tres swicthes, un patch panel, tendremos un DMZ donde se podrá acceder desde el
 evolucionando al mismo tiempo que vayamos avanzando con el proyecto.
    
   ## *VIERNES, 28 DE ABRIL*
-En el día de hoy nos hemos dividido en tres grupos, unos compañeros se dedicaban a configurar los sistemas operativos base de cada servidor físico,
-en el que más adelante se instalarán los servidores virtualizados. Otra compañera se dedicaba a hacer la memoria de la distribución de los servidores,
-donde se indica en que lugar irán los servidores virtualizados en cada servidor físico. Mientras que en mi caso, me ha tocado la tarea de distribuir
-las tareas que el grupo tiene pendientes, las que están en proceso y las finalizadas a través de Trello.
+En el día de hoy nos hemos dividido en tres grupos, unos compañeros se dedicaban a configurar los sistemas operativos base de cada servidor físico, en el que más adelante se instalarán los servidores virtualizados. Otra compañera se dedicaba a hacer la memoria de la distribución de los servidores, donde se indica en que lugar irán los servidores virtualizados en cada servidor físico. Mientras que en mi caso, me ha tocado la tarea de distribuir las tareas que el grupo tiene pendientes, las que están en proceso y las finalizadas a través de Trello.
+
+## *MIERCOLES, 3 DE MAYO*
+En el día de hoy, una parte del grupo empezó a instalar los sistemas operativos de los clientes y los servidores, mientras que por otro lado, otra parte del grupo empezamos a crimpar el cableado de la red desde el rack hasta los equipos, en mi caso, empecé a crimpar los cables en el patch panel. 
+
+## *JUEVES, 4 DE MAYO*
+En el día de hoy, continuamos con el proceso del día anterior, es decir, continuamos instalando equipos en las máquinas virtuales y los sistemas operativos, al mismo tiempo que adelantábamos crimopando cables en el patch panel.
+
+## *VIERNES, 5 DE MAYO*
+
+## *MARTES, 9 DE MAYO*
+
+## *MIERCOLES, 10 DE MAYO*
+
+## *JUEVES, 11 DE MAYO*
