@@ -1,4 +1,4 @@
-# Dell 1
+# Dell 1 Debian
  Usuario:srvsedealcoy01  
  Contraseña:1234  
  
@@ -14,7 +14,7 @@ Contraseña:1234
 Usuario:srvdatos  
 Contraseña:Batoi@1234
 
-# Dell 2
+# Dell 2 Debian
 Usuario:srvsedealcoy02  
 Contraseña:1234
 
@@ -33,7 +33,7 @@ Contraseña:Batoi@1234
 Usuario:debianmonitor  
 Contraseña:1234
 
-# Dell 3
+# Dell 3 Debian
 
 Usuario:srvsedealcoy03  
 Contraseña:1234
