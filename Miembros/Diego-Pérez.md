@@ -27,7 +27,7 @@ En el día de hoy, una parte del grupo empezó a instalar los sistemas operativo
 En el día de hoy, continuamos con el proceso del día anterior, es decir, continuamos instalando equipos en las máquinas virtuales y los sistemas operativos, al mismo tiempo que adelantábamos crimopando cables en el patch panel.
 
 ## *VIERNES, 5 DE MAYO*
-
+En el día de hoy, viernes 5 de mayo, el grupo conituamos realizando las tareas que estábamos realizando en las clases anteriores, es decir, mientras algunos se dedicaban a instalar y configurar los equipos, junto con sus sistemas operativos de clientes y servidores, los otros miembros nos dedicábamos a continuar con el crimpado y ordenamiento de los cables en el patch panel.
 ## *MARTES, 9 DE MAYO*
 
 ## *MIERCOLES, 10 DE MAYO*
