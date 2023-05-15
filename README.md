@@ -17,3 +17,4 @@
 # Bitácoras de cada mes
 - [Marzo](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-marzo.md)  
 - [Abril](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-abril.md)
+- [Mayo](https://github.com/PCADD/proyecto-integrador/blob/main/Bitacoras/bitacora-mayo.md)
