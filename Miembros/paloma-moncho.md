@@ -63,3 +63,9 @@ Jueves 11 de Mayo de 2023
 
 Hoy he terminado de cambiar el nombre a todos los usuarios y los equipos , tanto a los 3 servidores principales
 como a los servidores que se encuentran en el virtualbox.
+
+## Día 10 ##
+
+Viernes 12 de Mayo de 2023
+
+Comienzo a instalar el dominio en el servidor principal.(Falta terminarlo)
