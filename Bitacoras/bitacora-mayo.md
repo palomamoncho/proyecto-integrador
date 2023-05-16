@@ -9,7 +9,7 @@ Continuamos crimpando cables y añadimos el patch panel al rack. Además arregla
 - crimpar cables
 - empezamos a organizar los cables 
 - crear y configurar las máquinas en virtualbox
-## *MARTES, 8 DE MAYO*
+## *LUNES, 8 DE MAYO*
 
 ## *MARTES, 9 DE MAYO*
 Continuamos crimpando cables e instalamos los servidores virtualizados (a excepción de la cabina de discos)
