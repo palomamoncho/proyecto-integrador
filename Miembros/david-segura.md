@@ -15,3 +15,45 @@ Con los miembros del grupo hemos reseteado el router TP-Link y se a realizado su
 
 ## *JUEVES, 20 DE ABRIL*
 Con los miembros del grupo nos hemos reunido para dar la primera configuración del router TP-Link. Se ha reseteado el TP-Link y se ha empezado a configurarlo por medio de la apicacion Winbox. No se ha podido lograr una conexión correcta.
+
+## *MIÉRCOLES, 26 DE ABRIL*
+
+
+## *JUEVES, 27 DE ABRIL*
+Colaboración con el equipo de trabajo para realizar el esquema de red a usar como guía en el proyecto.
+
+## *VIERNES, 28 DE ABRIL*
+Configuración de los sistemas operativos base de cada servidor y elección de los servidores virtualizados a instalar en cada uno.
+
+## *MARTES, 2 DE MAYO*   
+Instalación de sistemas operativos base en servidores.
+
+## *MIÉRCOLES, 3 DE MAYO*   
+Instalación de sistemas operativos base en clientes.
+
+## *JUEVES, 4 DE MAYO*
+Finalización de la instalacion de sistemas operativos en equipos fisicos.
+
+## *VIERNES, 5 DE MAYO*
+
+
+## *LUNES, 8 DE MAYO*
+
+
+## *MARTES, 9 DE MAYO*
+
+
+## *MIÉRCOLES, 10 DE MAYO*
+Configuración inicial de los servidores y clientes, se ha empezado a cambiar los nombres de equipos y servidores virtualizados al igual que sus constraseñas.
+
+## *JUEVES, 11 DE MAYO*
+Finalizada la configuración inicial de los servidores y clientes, se ha empezado a cambiar los nombres de equipos y servidores virtualizados al igual que sus constraseñas.
+
+## *VIERNES, 12 DE MAYO*
+Configuración inicial del servidor empresarial en DELL 1, instalación de caracteristicas y roles y se empieza la instalación del dominio. Empiezo a diseñar el script para añadir los usuarios.
+
+## *LUNES, 15 DE MAYO*
+Continuo elaborando el script y corrigiendo errores.
+
+## *MARTES, 16 DE MAYO*
+Script para añadir usuarios y agalizar el trabajo en el servidor empresarial DELL 1 terminado. 
