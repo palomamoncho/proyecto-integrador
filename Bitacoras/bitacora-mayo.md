@@ -20,7 +20,7 @@ Continuamos crimpando cables e instalamos los servidores virtualizados (a excepc
 ## *JUEVES, 11 DE MAYO*
 Empezamos la configuración de vlans, decidimos cambiar la organización de los cables porque había quedado más desordenado de lo que esperábamos (y empezamos a reorganizarlos) y cambiamos los nombres de usuario y de equipo de servidores fisicos, virtualizados y clientes.
 ## *VIERNES, 12 DE MAYO*
--Seguimos con el tema de las vlans.
+-Seguimos con el tema de las vlans. 
 -Instalación del dominio en el servidor principal.
 ## *LUNES, 15 DE MAYO*
 Acabamos de configurar y de encontrar los fallos que teniamos en las vlans, finalmente, creamos las reglas del firewall y creamos los servidores dhcp, por lo 
