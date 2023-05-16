@@ -9,6 +9,8 @@ Continuamos crimpando cables y añadimos el patch panel al rack. Además arregla
 - crimpar cables
 - empezamos a organizar los cables 
 - crear y configurar las máquinas en virtualbox
+## *MARTES, 8 DE MAYO*
+
 ## *MARTES, 9 DE MAYO*
 Continuamos crimpando cables e instalamos los servidores virtualizados (a excepción de la cabina de discos)
 ## *MIÉRCOLES, 10 DE MAYO*
@@ -18,3 +20,7 @@ Continuamos crimpando cables e instalamos los servidores virtualizados (a excepc
 ## *JUEVES, 11 DE MAYO*
 Empezamos la configuración de vlans, decidimos cambiar la organización de los cables porque había quedado más desordenado de lo que esperábamos (y empezamos a reorganizarlos) y cambiamos los nombres de usuario y de equipo de servidores fisicos, virtualizados y clientes.
 ## *VIERNES, 12 DE MAYO*
+## *LUNES, 15 DE MAYO*
+Acabamos de configurar y de encontrar los fallos que teniamos en las vlans, finalmente, creamos las reglas del firewall y creamos los servidores dhcp, por lo 
+que actualmente tenemos conexcion a internet en todas las vlans. Tambiem empezamos a instalar el dominio y el enrutamiento, como a su vez el script de creacion 
+de usuarios.
