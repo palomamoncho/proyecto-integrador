@@ -7,7 +7,7 @@ Usuario:srvempresarial1
 Contraseña:Batoi@1234
 
 ## Servidor cabina de discos (Servidor con entorno gráfico)
-Usuario:debiandiscos  
+Usuario:root  
 Contraseña:1234
 
 ## Servidor de datos(Servidor windows con entorno gráfico) 
