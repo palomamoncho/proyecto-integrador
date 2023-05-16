@@ -69,3 +69,11 @@ como a los servidores que se encuentran en el virtualbox.
 Viernes 12 de Mayo de 2023
 
 Comienzo a instalar el dominio en el servidor principal.(Falta terminarlo)
+Tengo un pequeño problema con el nombre del equipo y empiezo de nuevo con otra máquina.
+
+## Día 11 ##
+
+Martes 16 de Mayo
+
+Termino con el dominio del servidor empresarial y hago el enrutamiento.  
+Además instalo en virtualbox una máquina que nos hacía falta , le pongo su iso. añado la tarjeta de red y la pongo en modo UEFI.
