@@ -20,15 +20,13 @@ Continuamos crimpando cables e instalamos los servidores virtualizados (a excepc
 ## *JUEVES, 11 DE MAYO*
 Empezamos la configuración de vlans, decidimos cambiar la organización de los cables porque había quedado más desordenado de lo que esperábamos (y empezamos a reorganizarlos) y cambiamos los nombres de usuario y de equipo de servidores fisicos, virtualizados y clientes.
 ## *VIERNES, 12 DE MAYO*
--Seguimos con el tema de las vlans.   
-
--Instalación del dominio en el servidor principal.
+Hemos terminado de configurar las vlans (a excepción del dchp, pero al asignar IPs estáticas si funciona internet). Además, hemos instalado el dominio en el servidor principal y hemos crimpado más cables
 ## *LUNES, 15 DE MAYO*
 Acabamos de configurar y de encontrar los fallos que teniamos en las vlans, finalmente, creamos las reglas del firewall y creamos los servidores dhcp, por lo 
 que actualmente tenemos conexcion a internet en todas las vlans. Tambiem empezamos a instalar el dominio y el enrutamiento, como a su vez el script de creacion 
 de usuarios.
-
 ## *MARTES, 16 DE MAYO*
+Hemos realizado las siguientes tareas: 
 - Se han detectado errores en la creación y configuración de las VLAN, debido a que algunos equipos no se podian conectar a internet, por lo que se ha procedido a su corrección. Actualmente todos los equipos tienen conexión a internet y estan configurados por DHCP. 
 - Elaboración del script para añadir usuarios al servidor empresarial DELL 1, el script se ha logrado terminar y hay que aplicarlo al servidor. 
 - Configuración del enrutamiento del servidor empresarial y asignación de tarjetas de red.
