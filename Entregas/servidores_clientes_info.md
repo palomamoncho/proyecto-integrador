@@ -2,11 +2,11 @@
  Usuario:srvsedealcoy01  
  Contraseña:1234  
  
-## Servidor empresarial (Servidor con entorno gráfico)
+## Servidor empresarial (Servidor Windows Server 2022 con entorno gráfico)
 Usuario:srvempresarial1  
 Contraseña:Batoi@1234
 
-## Servidor cabina de discos (Servidor con entorno gráfico)
+## Servidor cabina de discos (Servidor NAS con entorno gráfico)
 Usuario:root  
 Contraseña:1234
 
@@ -30,8 +30,9 @@ Contraseña:Batoi@1234
 
 ## Servidor de monitorización(servidor debian)
 
-Usuario:debianmonitor  
-Contraseña:1234
+Usuario:srvmonitorizacion  
+Contraseña: 1234
+Contraseña root: 1234
 
 # Dell 3 Debian
 
