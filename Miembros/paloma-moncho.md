@@ -77,3 +77,9 @@ Martes 16 de Mayo
 
 Termino con el dominio del servidor empresarial y hago el enrutamiento.  
 Además instalo en virtualbox una máquina que nos hacía falta , le pongo su iso. añado la tarjeta de red y la pongo en modo UEFI.
+
+## Día 12 ##
+
+Miércoles 17  de Mayo
+
+Intento hacer los perfiles mobiles.(Busco información porque no tengo ni idea).
