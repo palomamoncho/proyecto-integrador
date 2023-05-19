@@ -83,3 +83,9 @@ Además instalo en virtualbox una máquina que nos hacía falta , le pongo su is
 Miércoles 17  de Mayo
 
 Intento hacer los perfiles mobiles.(Busco información porque no tengo ni idea).
+
+## Día 13 ##
+
+Jueves 18 de Mayo
+
+En proceso la actividad del TrueNas, busqueda de información y comienzo.
