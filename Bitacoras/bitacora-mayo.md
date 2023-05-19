@@ -8,8 +8,6 @@ Continuamos crimpando cables y añadimos el patch panel al rack. Además arregla
 ## *VIERNES, 5 DE MAYO*
 Hoy hemos crimpado un cable que nos hacía falta.  Además organizamos y colocamos de forma ordenada los cables.  
 Mientras otros compañeros creaban y configuraban las máquinas de virtualbox.
-## *LUNES, 8 DE MAYO*
-
 ## *MARTES, 9 DE MAYO*
 Continuamos crimpando cables e instalamos los servidores virtualizados (a excepción de la cabina de discos)
 ## *MIÉRCOLES, 10 DE MAYO*
@@ -22,7 +20,7 @@ Empezamos la configuración de vlans, decidimos cambiar la organización de los 
 Hemos terminado de configurar las vlans (a excepción del dchp, pero al asignar IPs estáticas si funciona internet). Además, hemos instalado el dominio en el servidor principal y hemos crimpado más cables.
 ## *LUNES, 15 DE MAYO*
 Acabamos de configurar y de encontrar los fallos que teniamos en las vlans, finalmente, creamos las reglas del firewall y creamos los servidores dhcp, por lo 
-que actualmente tenemos conexcion a internet en todas las vlans. Tambiem empezamos a instalar el dominio y el enrutamiento, como a su vez el script de creacion 
+que actualmente tenemos conexion a internet en todas las vlans. Tambiem empezamos a instalar el dominio y el enrutamiento, como a su vez el script de creacion 
 de usuarios.
 ## *MARTES, 16 DE MAYO*
 Hemos realizado las siguientes tareas: 
@@ -31,3 +29,10 @@ Hemos realizado las siguientes tareas:
 - Configuración del enrutamiento del servidor empresarial y asignación de tarjetas de red.
 - Instalación y configuración inicial del servidor de datos TrueNAS y primera creación de prueba de RAIDz2.
 - Se ha seguido actualizando el TRELLO añadiendo tareas, finalizando otras, etc.
+## *MIÉRCOLES, 17 DE MAYO*
+Hemos realizado las siguientes tareas:
+- Reinstalación del servidor de monitorización 
+- Instalación de Zabbix
+- Utilizar script para crear los usuarios y añadirlos a los ggs
+- Investigar como acceder al switch cisco para crear vlans y configurar el bonding
+- Resetear el switch cisco
