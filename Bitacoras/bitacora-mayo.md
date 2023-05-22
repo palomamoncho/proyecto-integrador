@@ -36,3 +36,7 @@ Hemos realizado las siguientes tareas:
 - Utilizar script para crear los usuarios y añadirlos a los ggs
 - Investigar como acceder al switch cisco para crear vlans y configurar el bonding
 - Resetear el switch cisco
+
+## *VIERNES, 19 DE MAYO*
+
+Arreglamos las VLAN en el switch de cisco , mientras otros compañeros estaban configurando  el TrueNas con ICSI.
