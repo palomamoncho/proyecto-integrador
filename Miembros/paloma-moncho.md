@@ -89,3 +89,9 @@ Intento hacer los perfiles mobiles.(Busco información porque no tengo ni idea).
 Jueves 18 de Mayo
 
 En proceso la actividad del TrueNas, busqueda de información y comienzo.
+
+## Día 14 ##
+
+Viernes 19 de Mayo
+
+Hoy tuvimos un problema con el TrueNas ya que no se coneectó correctamente a la red. Resolvimos el problema y a contin uación continuamos con la tarea de configurar ICSI en el TrueNAs.
