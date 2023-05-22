@@ -36,7 +36,8 @@ Hemos realizado las siguientes tareas:
 - Utilizar script para crear los usuarios y añadirlos a los ggs
 - Investigar como acceder al switch cisco para crear vlans y configurar el bonding
 - Resetear el switch cisco
-
+## *JUEVES, 18 DE MAYO*
+El día de hoy el grupo nos dedicamos a ralizar las siguentes tareas, mientras que dos del grupo continuamos investigando cómo compartir el Raidz2 desde el TrueNas al servidor de datos, no teniendo éxito por el momento, mientras que otros miembros del grupo se dedicaban a arreglas las VLAN y configurar el switch de cisco.
 ## *VIERNES, 19 DE MAYO*
 
 Arreglamos las VLAN en el switch de cisco , mientras otros compañeros estaban configurando  el TrueNas con ICSI.
