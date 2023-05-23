@@ -39,5 +39,7 @@ Hemos realizado las siguientes tareas:
 ## *JUEVES, 18 DE MAYO*
 El día de hoy el grupo nos dedicamos a ralizar las siguentes tareas, mientras que dos del grupo continuamos investigando cómo compartir el Raidz2 desde el TrueNas al servidor de datos, no teniendo éxito por el momento, mientras que otros miembros del grupo se dedicaban a arreglas las VLAN y configurar el switch de cisco.
 ## *VIERNES, 19 DE MAYO*
-
 Arreglamos las VLAN en el switch de cisco , mientras otros compañeros estaban configurando  el TrueNas con ICSI.
+## *LUNES, 22 DE MAYO*
+Ya que desde el principio no organizamos muy bien los cables, nos dedicamos a quitarlos, reorganizarlos y etiquetarlos, tambien asignamos cada cable de red a su correspondienrte equipo. Tambien posimos a funcionar el sai y configuramos ciertos parametros de algunos clientes Windows que nos quedaban.
+
