@@ -11,9 +11,7 @@ Mientras otros compañeros creaban y configuraban las máquinas de virtualbox.
 ## *MARTES, 9 DE MAYO*
 Continuamos crimpando cables e instalamos los servidores virtualizados (a excepción de la cabina de discos)
 ## *MIÉRCOLES, 10 DE MAYO*
-- investigamos como configurar las vlans
-- arreglar algunos errores que nos daba virtualbox
-- elaborar documento con todos los nombres de servidores y contraseñas 
+En el día de hoy, miércoles 10 de mayo, parte del grupo investigamos como configurar las vlans al mismo tiempo que intentábamos arreglar algunos errores que nos daba virtualbox mientras otros se dedicaban a elaborar documento con todos los nombres de servidores y contraseñas.
 ## *JUEVES, 11 DE MAYO*
 Empezamos la configuración de vlans, decidimos cambiar la organización de los cables porque había quedado más desordenado de lo que esperábamos (y empezamos a reorganizarlos) y cambiamos los nombres de usuario y de equipo de servidores fisicos, virtualizados y clientes.
 ## *VIERNES, 12 DE MAYO*
