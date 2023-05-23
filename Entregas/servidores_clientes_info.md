@@ -31,10 +31,10 @@ Contraseña:Batoi@1234
 ## Servidor de monitorización(servidor debian)
 
 Usuario:srvmonitorizacion  
-Contraseña: 1234
+Contraseña: 1234  
 Contraseña root: 1234  
-Usuario zabbix: sedealcoy@localhost  
-Contraseña zabbix: 1234
+Usuario zabbix: zabbix@localhost  
+Contraseña zabbix: password
 
 # Dell 3 Debian
 
