@@ -95,3 +95,15 @@ En proceso la actividad del TrueNas, busqueda de información y comienzo.
 Viernes 19 de Mayo
 
 Hoy tuvimos un problema con el TrueNas ya que no se coneectó correctamente a la red. Resolvimos el problema y a contin uación continuamos con la tarea de configurar ICSI en el TrueNAs.
+
+## Día 15 ##
+
+Miércoles 24 de Mayo
+
+Hoy comenzamos a investigar como configurar el Sai, pude instalar la aplicación del Winpower para posteriormente hacer la configuración, pero nos quitaron la luz en en insituto.
+
+## Día 16 ##
+
+Jueves 25 de Mayo
+
+En el día de hoy continué investigando sobre la configuración del Sai, y descubrí que necesitaba un cable USB del sai para conectarlo con el equipo. 
