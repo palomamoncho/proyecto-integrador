@@ -107,3 +107,9 @@ Hoy comenzamos a investigar como configurar el Sai, pude instalar la aplicación
 Jueves 25 de Mayo
 
 En el día de hoy continué investigando sobre la configuración del Sai, y descubrí que necesitaba un cable USB del sai para conectarlo con el equipo. 
+
+## Día 17 ##
+
+Viernes 26 de Mayo
+
+Hoy por fin he conseguido configurar el SAI , añadiendo todas la ip's de los servidores, así que si se va la luz como administradora que soy enviará mi teléfono un correo para avisar que está a punto de apagarse. 
